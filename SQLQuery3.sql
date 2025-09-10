@@ -272,9 +272,9 @@ select isnull(null,null)
 
 select * from tblCompany 
 
+ --------------------------------------
 
-
-
+		 select * from FactCallCenter
 
 
 
