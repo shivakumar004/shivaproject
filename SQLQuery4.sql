@@ -26,7 +26,7 @@ INSERT INTO EMP VALUES (1, 'Shiva', 50000);
 
 select * from emp
 select * from EMP_LOG
-
+-------------------hi-----------
 
 CREATE TRIGGER TRG_DELETE_EMP
 ON EMP
